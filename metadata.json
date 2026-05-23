@@ -1,0 +1,6 @@
+{
+  "name": "2학년 길이재기 자 시뮬레이터",
+  "description": "초등 2학년 수학의 길이재기 단원을 쉽고 재미있게 공부할 수 있는 애플 감성의 인터랙티브 교구 시뮬레이터 및 조사 길이책 만들기 활동",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
